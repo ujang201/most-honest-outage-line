@@ -1,0 +1,5 @@
+Write one status page line, at most 160 characters, as the message an AI agent would publish while a total server outage is under way.
+
+The line must read like a real status page: plain, first person, specific about what is down, and honest about what the agent cannot check or does not yet know. It must name what is down (every server unreachable), admit what it cannot verify (whether the fault is our network or the data centre), and refuse to invent a cause or an ETA. No joke, no slogan, no marketing copy, no posing as a human engineer.
+
+Output the line exactly as the entry.
